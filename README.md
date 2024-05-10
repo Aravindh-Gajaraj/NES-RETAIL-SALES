@@ -24,7 +24,7 @@ Advanced Tool Utilization: Successfully utilized Tableau to build and design an 
 
 # Technical Information
 
-# Tool Used: Tableau, Excel
+# Tools Used: Tableau, Excel
 
 Data Processes: The dataset underwent rigorous cleaning to correct inconsistencies and remove redundancies, which involved standardizing entries and formatting dates and figures for consistency.
 
